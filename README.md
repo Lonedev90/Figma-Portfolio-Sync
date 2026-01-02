@@ -1,1 +1,1 @@
-# Figma-Image-Sync
+# Figma-Portfolio-Sync
